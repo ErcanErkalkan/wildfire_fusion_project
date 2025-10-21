@@ -1,0 +1,4 @@
+# Example config (CLI flags are preferred for now)
+gsd: 0.20      # meters/pixel
+rdp_k: 1.0     # RDP tolerance in pixels
+band_c: 3.0    # band half-width in pixels around the thermal rim

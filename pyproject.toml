@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wildfire-fusion"
+version = "0.1.0"
+description = "Thermal–RGB fusion pipeline for micro‑UAV wildfire perimeter tracking with minimal communications."
+authors = [
+  {name="Ercan Erkalkan", email="ercan.erkalkan@marmara.edu.tr"},
+  {name="Vedat Topuz"},
+  {name="Ayça Ak"}
+]
+readme = "README.md"
+requires-python = ">=3.9"
+keywords = ["uav", "wildfire", "perimeter tracking", "thermal", "RGB", "image fusion", "RDP"]
+classifiers = [
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Topic :: Scientific/Engineering :: Image Processing",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+dependencies = [
+  "numpy>=1.24",
+  "opencv-python>=4.9",
+  "PyYAML>=6.0",
+]
+
+[project.urls]
+Homepage = "https://example.com/wildfire-fusion"
+Repository = "https://example.com/wildfire-fusion.git"

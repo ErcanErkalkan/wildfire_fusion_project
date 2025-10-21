@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "wildfire-fusion: Thermal–RGB perimeter tracking under minimal communications"
+type: software
+authors:
+  - family-names: Erkalkan
+    given-names: Ercan
+    email: ercan.erkalkan@marmara.edu.tr
+  - family-names: Topuz
+    given-names: Vedat
+  - family-names: Ak
+    given-names: Ayça
+repository-code: "https://example.com/wildfire-fusion.git"
+version: "0.1.0"
+date-released: "2025-10-21"
+preferred-citation:
+  type: article
+  title: "Thermal–RGB Fusion for Micro-UAV Wildfire Perimeter Tracking with Minimal Communications"
+  authors:
+    - family-names: Erkalkan
+      given-names: Ercan
+    - family-names: Topuz
+      given-names: Vedat
+    - family-names: Ak
+      given-names: Ayça
+  collection-title: "Proceedings of the 17th International Scientific Studies Congress"
+  year: 2025
