@@ -10,7 +10,7 @@ authors:
     given-names: Vedat
   - family-names: Ak
     given-names: Ayça
-repository-code: "https://example.com/wildfire-fusion.git"
+repository-code: "https://github.com/ErcanErkalkan/wildfire_fusion_project"
 version: "0.1.0"
 date-released: "2025-10-21"
 preferred-citation:
