@@ -85,7 +85,7 @@ wildfire_fusion/
 
 If you use this software or method, please cite the following (also see `CITATION.cff`):
 
-> Erkalkan, E., Topuz, V., & Ak, A. (2025). *Thermal–RGB Fusion for Micro‑UAV Wildfire Perimeter Tracking with Minimal Communications*. In **Proceedings of the 17th International Scientific Studies Congress**.
+> E. Erkalkan, V. Topuz, and A. Ak, “Thermal–RGB Fusion for Micro-UAV Wildfire Perimeter Tracking with Minimal Communications,” in Proc. 17th Int. Scientific Studies Congress (UBCAK 2025)—Full Text Book, H. Göker, Ed. Elazığ, Türkiye: Asos Yayınevi, 2025, pp. 278–285. ISBN 978-625-5909-68-8.
 
 ---
 

@@ -14,7 +14,7 @@ repository-code: "https://github.com/ErcanErkalkan/wildfire_fusion_project"
 version: "0.1.0"
 date-released: "2025-10-21"
 preferred-citation:
-  type: article
+  type: conference-paper
   title: "Thermal–RGB Fusion for Micro-UAV Wildfire Perimeter Tracking with Minimal Communications"
   authors:
     - family-names: Erkalkan
@@ -23,5 +23,17 @@ preferred-citation:
       given-names: Vedat
     - family-names: Ak
       given-names: Ayça
-  collection-title: "Proceedings of the 17th International Scientific Studies Congress"
+  editors:
+    - family-names: Göker
+      given-names: Hanife
+  collection-title: "Proceedings of the 17th International Scientific Studies Congress (UBCAK 2025) — Full Text Book"
+  conference:
+    name: "17th International Scientific Studies Congress (UBCAK 2025)"
+    location: "Elazığ, Türkiye"
+    date-start: "2025-10-23"
+    date-end: "2025-10-24"
+  publisher: "Asos Yayınevi"
   year: 2025
+  month: 10
+  pages: "278-285"
+  isbn: "978-625-5909-68-8"
